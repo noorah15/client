@@ -25,3 +25,5 @@
 - Delete the user trip post: As an admin, I can start to remove the user trip post to any user so that I can't see it on the website and the user can't see it also.
 
 ## UML:
+
+![Untitled%20Diagram.drawio img](https://github.com/noorah15/client/blob/main/Untitled%20Diagram.drawio.png)
